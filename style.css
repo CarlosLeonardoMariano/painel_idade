@@ -3,7 +3,7 @@
 body{background-color: rgb(132, 132, 248);font-family: Arial, Helvetica, sans-serif;font-size: 18px;
 }
 
-header{color: white;text-align: center;font-style: italic;}
+header{color: black ;text-align: center;}
 
 
 
@@ -15,8 +15,25 @@ section{padding: 10px;background-color: white;width: 650px;text-align: center;
 
 
 footer{
-    text-align: end;color: white;font-style: italic;margin-top: 10px;
+    margin-left: 50px;color: white;font-style: italic;margin-top: 10px;
 
 }
 
-img{width: 250px;border-radius: 45%; height: 200px;}
+img{width: 250px;border-radius: 45%; height: 200px;
+}
+
+
+
+
+.botao{background-color: darkgreen;
+color: whitesmoke;
+width: 130px;
+padding: 10px;
+border-radius: 5px;
+border: 1px solid black;
+cursor: pointer;
+}
+
+
+.botao:hover{background-color: green;
+color: white;}
