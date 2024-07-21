@@ -8,14 +8,14 @@ header{color: white;text-align: center;font-style: italic;}
 
 
 
-section{padding: 10px;background-color: white;width: 600px;text-align: center;
+section{padding: 10px;background-color: white;width: 650px;text-align: center;
     margin: auto;border-radius: 20px;box-shadow: 1px 1px 20px rgb(38, 16, 119)
 
 }
 
 
 footer{
-    text-align: center;color: white;font-style: italic;margin-top: 10px;
+    text-align: end;color: white;font-style: italic;margin-top: 10px;
 
 }
 
